@@ -37,7 +37,7 @@ main {
 
 .card .text {
     color: var(--primary-medium);
-    font-size: 14px;
-    padding: 0 px;
+    font-size: 12px;
+    padding: 0 15px;
     line-height: 18px;
 }    
