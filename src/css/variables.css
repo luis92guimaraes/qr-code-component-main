@@ -1,0 +1,5 @@
+:root {
+    --primary-light: hsl(212, 45%, 89%);
+    --primary-medium: hsl(220, 15%, 55%);
+    --primary-dark: hsl(218, 44%, 22%);
+}
